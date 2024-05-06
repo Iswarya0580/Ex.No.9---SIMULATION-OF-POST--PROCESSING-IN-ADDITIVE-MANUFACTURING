@@ -47,8 +47,10 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/Iswarya0580/Ex.No.9---SIMULATION-OF-POST--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/149989171/e5df66dd-6fcb-447f-8b59-7673c60c43ed)
+
+### Name:Iswarya P
+### Register Number:212223230082
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
